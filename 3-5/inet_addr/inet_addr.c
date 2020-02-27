@@ -1,6 +1,6 @@
 
 	/*
-	 *  filename.c
+	 *  inet_addr.c
 	 *  Written by SW. YOON
 	 */
 
